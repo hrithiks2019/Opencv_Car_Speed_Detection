@@ -1,0 +1,11 @@
+{
+	"confidence": 0.4,
+	"quadrant_length": 2,
+	"speed_limit": 40,
+	"Author_name": "SH_Mxham1",
+    "MI_KM": 0.621,
+	"width": 700,
+	"output_arduino": false,
+	"output_csv": true,
+	"output_csv_file": "log.csv"
+}
