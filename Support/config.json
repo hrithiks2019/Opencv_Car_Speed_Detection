@@ -1,0 +1,15 @@
+{
+	"max_disappear": 10,
+	"max_distance": 175,
+	"track_object": 2,
+	"confidence": 0.4,
+	"frame_width": 1000,
+	"speed_estimation_zone": {"A": 120, "B": 160, "C": 200, "D": 240},
+	"distance": 16,
+	"speed_limit": 0,
+	"display": true,
+	"use_dropbox": false,
+	"output_path": "output",
+	"csv_name": "log.csv",
+	"Author_name": "Hrithik A.K.A Mxham1"
+}

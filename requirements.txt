@@ -1,0 +1,8 @@
+imutils
+opencv-python
+opencv-contrib-python
+numpy
+scipy
+dlib-compiled
+JSON_minify
+dlib
