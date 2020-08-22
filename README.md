@@ -27,10 +27,10 @@ python3 speed_estimation_dl_video.py
 ## SideNote:
 ````shell
 if you want to use Webcam please change the following line in speed_estimation_dl_video.py 
-Line[23] to : cap = cv2.VideoCapture(0)
+Line[15] to : cap = cv2.VideoCapture(0)
 
 if you want to use Video File please change the following line in speed_estimation_dl_video.py 
-Line[23] to : cap = cv2.VideoCapture(<Video_Path>)
+Line[15] to : cap = cv2.VideoCapture(<Video_Path>)
  
 ````
 
